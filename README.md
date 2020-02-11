@@ -1,0 +1,1 @@
+# isMAC48Address-js
